@@ -1,0 +1,2 @@
+# AhmadFarhatan
+Ai detector money
